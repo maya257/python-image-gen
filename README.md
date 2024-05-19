@@ -66,7 +66,7 @@ Learn more about models used here: https://beta.openai.com/docs/introduction
 
 ## Authors
 
-👤 **Maya D. - child of God**
+👤 **Maya D.**
 
 - GitHub: [@mcrd25](https://github.com/mcrd25)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mayadouglas)
